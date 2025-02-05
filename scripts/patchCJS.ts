@@ -55,3 +55,5 @@ if (matchDefault) {
 
 console.error(colors.red(`${indexPath} CJS patch failed`))
 process.exit(1)
+
+
